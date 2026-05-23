@@ -1,0 +1,10 @@
+# Format: style|color_code|sizes (comma-separated)|HH product name (if known)
+34446|597|S,M,L|Men's Crew Sailing Vest 2.0
+30263|990|S,M,L,XL|Men's Crew Sailing Jacket
+54233|990|S,M,L,XL|Men's Crewline Polo
+54233|597|S,M,L,XL|Men's Crewline Polo
+54233|001|S,M,L,XL|Men's Crewline Polo
+54233|980|S,M,L,XL|Men's Crewline Polo
+54154|853|28,30,32,33,35,36|Helly Hansen HH QD Cargo Shorts (discontinued on HH global)
+54154|720|28,30,32,33|Helly Hansen HH QD Cargo Shorts (discontinued on HH global)
+33933|597|28,32,33,35,36,38|Men's HP Quick-Dry Club Shorts 10"
