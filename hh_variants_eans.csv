@@ -1,1 +1,40 @@
 Style,Color Code,Color Name,Size,Variant SKU,EAN,Product Name,Price,Currency,Source URL,Confidence,Notes
+34446,597,NAVY,S,34446_597-S,7040058878285,Men's Crew Sailing Vest 2.0,99.42,EUR,https://mts.ee/et/toode/helly-hansen-mens-crew-sailing-20-vest-navy-s-7612592596,high,
+34446,597,NAVY,M,34446_597-M,7040058878278,Men's Crew Sailing Vest 2.0,125.00,GBP,https://www.yorkshire.com/marketplace/sporting-goods-988/outdoor-recreation-1011/boating-and-water-sports-499811/boating-and-water-sport-clothing-499813/water-sport-helmets-499687/d35bd516-7037-4063-a317-d914f1fbae4a,high,
+34446,597,NAVY,L,34446_597-L,7040058878261,Men's Crew Sailing Vest 2.0,,EUR,https://www.svb24.com/en/helly-hansen-men-s-crew-2-0-sailing-vest-navy.html,high,
+30263,990,BLACK,S,30263_990-S,7040054197953,Men's Crew Sailing Jacket,,USD,https://www.opticsplanet.com/helly-hansen-crew-jacket-men-s.html,high,
+30263,990,BLACK,M,30263_990-M,7040054197939,Men's Crew Sailing Jacket,,USD,https://www.opticsplanet.com/helly-hansen-crew-jacket-men-s.html,high,
+30263,990,BLACK,L,30263_990-L,7040054197915,Men's Crew Sailing Jacket,,USD,https://www.opticsplanet.com/helly-hansen-crew-jacket-men-s.html,high,
+30263,990,BLACK,XL,30263_990-XL,7040054197991,Men's Crew Sailing Jacket,,USD,https://www.opticsplanet.com/helly-hansen-crew-jacket-men-s.html,high,
+54233,990,BLACK,S,54233_990-S,,Men's Crewline Polo,,,,none,not found - retailer pages used MPN as placeholder GTIN; no actual EAN surfaced in search snippets
+54233,990,BLACK,M,54233_990-M,,Men's Crewline Polo,,,,none,not found
+54233,990,BLACK,L,54233_990-L,,Men's Crewline Polo,,,,none,not found
+54233,990,BLACK,XL,54233_990-XL,,Men's Crewline Polo,,,,none,not found
+54233,597,NAVY,S,54233_597-S,,Men's Crewline Polo,,,,none,not found
+54233,597,NAVY,M,54233_597-M,,Men's Crewline Polo,,,,none,not found
+54233,597,NAVY,L,54233_597-L,,Men's Crewline Polo,,,,none,not found
+54233,597,NAVY,XL,54233_597-XL,7040054267892,Men's Crewline Polo,49.00,EUR,https://www.yachtershop.sk/en/Clothing%2C%20Shoes%20%26%20Accesories/Men%27s%20clothing/Fashion%20-%20short%20sleeve/Helly%20Hansen%20Crew%20Polo%20Navy-p-18919.html,high,EAN from yachtershop.sk snippet; full page would not scrape
+54233,001,WHITE,S,54233_001-S,,Men's Crewline Polo,,,,none,not found
+54233,001,WHITE,M,54233_001-M,,Men's Crewline Polo,,,,none,not found
+54233,001,WHITE,L,54233_001-L,,Men's Crewline Polo,,,,none,not found
+54233,001,WHITE,XL,54233_001-XL,,Men's Crewline Polo,,,,none,not found
+54233,980,EBONY,S,54233_980-S,,Men's Crewline Polo,,,,none,not found
+54233,980,EBONY,M,54233_980-M,,Men's Crewline Polo,,,,none,not found
+54233,980,EBONY,L,54233_980-L,,Men's Crewline Polo,,,,none,not found
+54233,980,EBONY,XL,54233_980-XL,,Men's Crewline Polo,,,,none,not found
+54154,853,GREY FOG,28,54154_853-28,,Helly Hansen HH QD Cargo Shorts II,,,,none,not found - discontinued on HH global; grey fog variant EANs not in search snippets
+54154,853,GREY FOG,30,54154_853-30,,Helly Hansen HH QD Cargo Shorts II,,,,none,not found
+54154,853,GREY FOG,32,54154_853-32,,Helly Hansen HH QD Cargo Shorts II,,,,none,not found
+54154,853,GREY FOG,33,54154_853-33,,Helly Hansen HH QD Cargo Shorts II,,,,none,not found
+54154,853,GREY FOG,35,54154_853-35,,Helly Hansen HH QD Cargo Shorts II,,,,none,not found
+54154,853,GREY FOG,36,54154_853-36,,Helly Hansen HH QD Cargo Shorts II,,,,none,not found
+54154,720,FALLEN ROCK,28,54154_720-28,7040055817003,Helly Hansen HH QD Cargo Shorts II,,USD,https://www.fisheriessupply.com/helly-hansen-qd-ii-28-fallen-rock-cargo-shorts/54154-720-28,high,Color 720 = FALLEN ROCK (per Fisheries Supply / Wild Earth listings)
+54154,720,FALLEN ROCK,30,54154_720-30,7040055817010,Helly Hansen HH QD Cargo Shorts II,109.95,AUD,https://www.wildearth.com.au/buy/helly-hansen-hh-qd-cargo-mens-shorts-11-fallen-roc/54154-720-30,high,
+54154,720,FALLEN ROCK,32,54154_720-32,,Helly Hansen HH QD Cargo Shorts II,,,,none,not found - sequence implies 7040055817027 but not verified
+54154,720,FALLEN ROCK,33,54154_720-33,,Helly Hansen HH QD Cargo Shorts II,,,,none,not found - sequence implies 7040055817034 but not verified
+33933,597,NAVY,28,33933_597-28,,Men's HP Quick-Dry Club Shorts 10",,,,none,not found
+33933,597,NAVY,32,33933_597-32,,Men's HP Quick-Dry Club Shorts 10",,,,none,not found
+33933,597,NAVY,33,33933_597-33,,Men's HP Quick-Dry Club Shorts 10",,,,none,not found
+33933,597,NAVY,35,33933_597-35,,Men's HP Quick-Dry Club Shorts 10",,,,none,not found
+33933,597,NAVY,36,33933_597-36,,Men's HP Quick-Dry Club Shorts 10",,,,none,not found
+33933,597,NAVY,38,33933_597-38,,Men's HP Quick-Dry Club Shorts 10",,,,none,not found - product-level EAN 7040055415964 was attributed to size M (likely incorrect mapping); no size-specific EANs surfaced
